@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">LocationGeo</string>
+    <string name="add_geofence">Add Geofence</string>
+    <string name="remove_geofence">Remove Geofence</string>
+</resources>
